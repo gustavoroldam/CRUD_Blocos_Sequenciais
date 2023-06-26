@@ -1,0 +1,43 @@
+Tipo Produto:
+
+1 - Carne
+2 - Biscoito
+3 - Liquido
+4 - Padaria
+5 - Resto
+
+Estado:
+
+1 - SP
+2 - MG
+3 - RJ
+4 - MT
+5 - RS
+
+Fornecedor:
+2 - Gustavo - J - 18 - Assis - 1 - 0001
+6 - Paulo - F - 12 - Maracai - 1 - 1234
+9 - Joao - A - 1878 - BH - 2 - 4321
+10 - Marcell - G - 1850 - Cuiaba - 4 - 509
+20 - Giovane - R - 78 - Rio - 3 - 2211
+
+Produto:
+2 - Picanha - 1 - 2 - 5 - 10 - 20 - 5
+6 - Pao - 4 - 8 - 10 - 5 - 20 - 2
+9 - Vinho - 3 - 6 - 70 - 50 - 100 - 50
+10 - Bolacha - 2 - 4 - 60 - 20 - 70 - 12
+20 - Ketchup - 5 - 2 - 10 - 5 - 12 - 5
+
+Novo Fornecedor:
+1 - Alice - D - 14 - Florinea - 1 - 145
+3 - Isabella - K - 19 - Canoas - 5 - 321
+7 - Karol - U - 159 - Goiais - 2 - 456
+15 - Guilherme - L - 156 - Assis - 1 - 687
+19 - Italo - Z - 7 - Pedrinhas - 1 - 21
+
+Novo Produto:
+1 - Frango - 1 - 2 - 15 - 10 - 20 - 50
+3 - Ice - 3 - 15 - 40 - 100 - 800 - 8
+7 - Cookie - 2 - 1 - 40 - 20 - 60 - 10
+15 - Faca - 5 - 19 - 80 - 20 - 100 - 30
+19 - Bolo - 4 - 3 - 15 - 10 - 20 - 15
